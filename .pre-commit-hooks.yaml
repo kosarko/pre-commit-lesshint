@@ -2,7 +2,7 @@
     name: lesshint
     entry: lesshint
     language: node
-    file: \.(less)$
+    files: \.(less)$
     args: []
 
     minimum_pre_commit_version: 0.12.0
